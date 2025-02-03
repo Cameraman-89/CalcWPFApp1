@@ -134,7 +134,7 @@
             Grid.Row="5"
             Grid.Column="0" Grid.ColumnSpan="2"/>
         <Button 
-            Content="." 
+            Content="," 
             Style="{StaticResource OperationButtonStyle}"
             Click="NumberButton_Click"
             Grid.Row="5"
